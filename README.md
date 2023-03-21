@@ -9,3 +9,18 @@
     <br><br>:coffee: Connect with me :point_right: on <a href="https://www.linkedin.com/in/radin-dafina/">LinkedIn</a>
   </samp>
 </p>
+
+<details>
+  <summary><b>:telescope: Skills</b></summary>
+  meow
+</details>
+
+<details>
+  <summary><b>:scroll: Certificates</b></summary>
+   meow
+</details>
+
+<details>
+  <summary><b>:books: Projects & Assignments</b></summary>
+   meow
+</details>
