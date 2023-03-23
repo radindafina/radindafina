@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=radindafina&label=Profile%20views&color=0e75b6&style=flat" alt="radindafina" /> </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
@@ -33,6 +34,28 @@
 </details>
 
 <details>
+  <summary><b>:pencil: Ongoing Projects</b></summary>
+  
+<p align="center">
+  <samp>
+    <br><a href="https://github.com/radindafina/special-topic-data-engineering/tree/main/project/proposal/DataAce">Fraud Detection using MongoDB</a>
+  </samp>
+</p>
+  
+</details>
+
+<details>
   <summary><b>:books: Projects & Assignments</b></summary>
-   meow
+  
+<p align="center">
+  <samp>
+    <br><a href="https://github.com/radindafina/Python-big-data/tree/main/Assignment%201/uwu">Big Data EDA: Airline Delay in 2017</a>
+    <br><a href="https://github.com/radindafina/Python_EDA/tree/main/Malaysia%20EDA/uwu">Malaysia Dataset EDA: Property Listings in Kuala Lumpur</a>
+    <br><a href="https://github.com/radindafina/Python-big-data/tree/main/Assignment%202b/QwQ">Pandas vs Polars on Health Insurance Marketplace Dataset</a>
+    <br><a href="https://github.com/radindafina/python-web/tree/main/beautiful-soup/QwQ">Web Scraping Malaysia States Website using Beautiful Soup</a>
+    <br><a href="https://github.com/radindafina/Python-big-data/tree/main/Assignment%202a/QwQ">Alternatives to Pandas for Processing Large Dataset - Polars</a>
+    <br><a href="https://github.com/radindafina/Python-big-data/tree/main/Project/QwQ">Big Data Project: New York City Automated Traffic Volume Counts</a>
+  </samp>
+</p>
+  
 </details>
